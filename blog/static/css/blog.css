@@ -1,13 +1,13 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Spectral', serif;
+    font-family: 'Lobster';
 }
 body {
 	padding-left: 15px;
 }
 
 .page-header {
-	background-color: #e64980;
+	background-color: #ff9400;
 	margin-top: 0;
 	padding: 20px 20px 20px 40px;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-	font-family: 'Spectral', serif, cursive;
+	font-family: 'Lobster', cursive;
 }
 
 .date {
